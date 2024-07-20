@@ -10,13 +10,13 @@ level: Beginner
 last-substantial-update: 2023-11-16T00:00:00Z
 jira: KT-14155
 hidefromtoc: true
-source-git-commit: b2f5670ac44b0cb4a59d3b685e6369e3b7e6db11
+exl-id: b856f8a3-c353-4f10-8d04-5758ec59b611
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '452'
 ht-degree: 1%
 
 ---
-
 
 # Productivité créative : équipes créatives superactives
 
@@ -61,12 +61,12 @@ Les solutions d’Adobe utilisées pour la productivité créative :
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/enable-creative-efficiency.html" title="Activer l’efficacité créative">Activer l’efficacité créative</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/enable-creative-efficiency.html" title="Activer l’efficacité créative">Activer l’efficacité de création</a>
           </p>
           <p class="is-size-6"><em>Découvrez comment accélérer la création de contenu à l’aide d’outils génératifs optimisés par l’IA dans Adobe Photoshop et Illustrator.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/enable-creative-efficiency.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder la vidéo</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regardez la vidéo</span>
       </a>
     </div>
   </div>
@@ -87,7 +87,7 @@ Les solutions d’Adobe utilisées pour la productivité créative :
           <p class="is-size-6"><em>Découvrez comment utiliser Generative Recolor, optimisé par Adobe Firefly, dans Adobe Illustrator pour aider rapidement à recomposer des images vectorielles pour les boîtes de thé personnalisées de l’hôtel.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder la vidéo</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regardez la vidéo</span>
       </a>
     </div>
   </div>
@@ -108,7 +108,7 @@ Les solutions d’Adobe utilisées pour la productivité créative :
           <p class="is-size-6"><em>Découvrez comment utiliser les effets de texte, optimisés par Adobe Firefly, pour créer des images de titre uniques et inspirantes pour une newsletter.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-effects.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder la vidéo</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regardez la vidéo</span>
       </a>
     </div>
   </div>
@@ -129,7 +129,7 @@ Les solutions d’Adobe utilisées pour la productivité créative :
           <p class="is-size-6"><em>Découvrez comment utiliser le remplissage générique, optimisé par Adobe Firefly, dans Adobe Photoshop pour accélérer la création de bannières publicitaires web.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/web-banner-ad.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder la vidéo</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regardez la vidéo</span>
       </a>
     </div>
   </div>
@@ -145,12 +145,12 @@ Les solutions d’Adobe utilisées pour la productivité créative :
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/jumpstart-ideation.html" title="Idéologie créative de Jumpstart">Idéologie créative de Jumpstart</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/jumpstart-ideation.html" title="Idéologie créative de Jumpstart">Idéation créative Jumpstart</a>
           </p>
           <p class="is-size-6"><em>Découvrez comment commencer à développer du contenu créatif pour une campagne marketing. </em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/jumpstart-ideation.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder la vidéo</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regardez la vidéo</span>
       </a>
     </div>
   </div>
@@ -171,7 +171,7 @@ Les solutions d’Adobe utilisées pour la productivité créative :
           <p class="is-size-6"><em>Découvrez comment utiliser le remplissage générique, optimisé par Adobe Firefly, dans Adobe Photoshop afin de faciliter la création d’un concept pour une annonce de voyage.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-fill.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder la vidéo</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regardez la vidéo</span>
       </a>
     </div>
   </div>
@@ -179,20 +179,20 @@ Les solutions d’Adobe utilisées pour la productivité créative :
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="Utilisation des bibliothèques CC" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420227?format=jpeg" alt="Utilisation des bibliothèques CC">
+        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="Utilisation de CC Libraries" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420227?format=jpeg" alt="Utilisation de CC Libraries">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="Utilisation des bibliothèques CC">Utilisation des bibliothèques CC</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="Utilisation de CC Libraries">Utiliser CC Libraries</a>
           </p>
           <p class="is-size-6"><em>Découvrez comment partager des ressources de la bibliothèque CC avec votre équipe.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder la vidéo</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regardez la vidéo</span>
       </a>
     </div>
   </div>

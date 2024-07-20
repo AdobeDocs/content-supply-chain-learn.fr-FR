@@ -10,13 +10,13 @@ level: Beginner
 last-substantial-update: 2023-11-16T00:00:00Z
 jira: KT-14156
 hidefromtoc: true
-source-git-commit: b2f5670ac44b0cb4a59d3b685e6369e3b7e6db11
+exl-id: a72efe7e-e7ff-4845-9242-f038f10bb805
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '810'
 ht-degree: 14%
 
 ---
-
 
 # Agilité marketing : donner aux non-créatifs les moyens d&#39;évoluer
 
@@ -63,7 +63,7 @@ Les solutions d’Adobe utilisées pour l’agilité marketing :
           <p class="is-size-6"><em>Le recadrage intelligent tire parti d’Adobe Sensei pour éliminer les tâches fastidieuses et coûteuses de recadrage de contenu pour la conception réactive.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/images/smart-crop-feature-video-use.html?lang=fr" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder la vidéo</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regardez la vidéo</span>
       </a>
     </div>
   </div>
@@ -84,7 +84,7 @@ Les solutions d’Adobe utilisées pour l’agilité marketing :
           <p class="is-size-6"><em>Découvrez comment utiliser Texte à l’image, avec Adobe Firefly, dans l’Adobe Express afin de créer une campagne de promotion pour les médias sociaux. Ce tutoriel utilise le nouvel Adobe Express.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-social-posters.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder la vidéo</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regardez la vidéo</span>
       </a>
     </div>
   </div>
@@ -105,7 +105,7 @@ Les solutions d’Adobe utilisées pour l’agilité marketing :
           <p class="is-size-6"><em>Découvrez comment utiliser Texte à Image, avec la technologie de l'Adobe Firefly, en Adobe Express pour créer un webinaire d'affichage pour un événement de réalité virtuelle. Ce tutoriel utilise le nouvel Adobe Express.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-webinar-poster.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder la vidéo</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regardez la vidéo</span>
       </a>
     </div>
   </div>
@@ -121,12 +121,12 @@ Les solutions d’Adobe utilisées pour l’agilité marketing :
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-blog-graphics.html" title="Exécutez facilement des campagnes sur les réseaux sociaux.">Exécutez facilement des campagnes sur les réseaux sociaux.</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-blog-graphics.html" title="Exécutez facilement des campagnes sur les réseaux sociaux."> Campagnes sur les réseaux sociaux faciles à exécuter </a>
           </p>
           <p class="is-size-6"><em>Découvrez comment utiliser Texte à l’image, avec Adobe Firefly, pour créer du contenu graphique unique pour des campagnes sur le web, les blogs et les réseaux sociaux. Ce tutoriel utilise le nouvel Adobe Express.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-blog-graphics.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder la vidéo</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regardez la vidéo</span>
       </a>
     </div>
   </div>
@@ -147,7 +147,7 @@ Les solutions d’Adobe utilisées pour l’agilité marketing :
           <p class="is-size-6"><em>Découvrez comment utiliser Texte à l’image, avec Adobe Firefly, dans l’Adobe Express afin de créer des graphiques uniques pour le recrutement des employés et le contenu intégré.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-on-boarding.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder la vidéo</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regardez la vidéo</span>
       </a>
     </div>
   </div>
@@ -168,7 +168,7 @@ Les solutions d’Adobe utilisées pour l’agilité marketing :
           <p class="is-size-6"><em>Découvrez comment utiliser Texte à l’image, avec Adobe Firefly, dans l’Adobe Express pour créer du contenu localisé à partir d’une campagne marketing globale d’hôtels. </em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-local-marketing.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder la vidéo</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regardez la vidéo</span>
       </a>
     </div>
   </div>
@@ -184,12 +184,12 @@ Les solutions d’Adobe utilisées pour l’agilité marketing :
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html" title="Donnez aux équipes distribuées les moyens de localiser le contenu.">Donnez aux équipes distribuées les moyens de localiser le contenu.</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html" title="Donnez aux équipes distribuées les moyens de localiser le contenu.">Donner aux équipes distribuées les moyens de localiser le contenu</a>
           </p>
           <p class="is-size-6"><em>Découvrez comment les équipes de marketing de terrain distribuées peuvent facilement personnaliser du contenu dans leur région pour les campagnes marketing locales. </em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder la vidéo</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regardez la vidéo</span>
       </a>
     </div>
   </div>
@@ -210,7 +210,7 @@ Les solutions d’Adobe utilisées pour l’agilité marketing :
           <p class="is-size-6"><em>Découvrez comment une équipe commerciale peut facilement créer des images attrayantes pour un nouvel ensemble d’inventaire dans sa boutique en ligne.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/compelling-merchandise.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder la vidéo</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regardez la vidéo</span>
       </a>
     </div>
   </div>
@@ -226,12 +226,12 @@ Les solutions d’Adobe utilisées pour l’agilité marketing :
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/multi-channel-marketing-content.html" title="Permettre aux équipes marketing de créer du contenu multicanal">Permettre aux équipes marketing de créer du contenu multicanal</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/multi-channel-marketing-content.html" title="Permettre aux équipes marketing de créer du contenu multicanal"> Donnez aux équipes marketing les moyens de créer du contenu multicanal </a>
           </p>
           <p class="is-size-6"><em>Découvrez comment les équipes de marketing d’événements peuvent créer du contenu unique afin d’attirer les visiteurs pour les événements en ligne.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/multi-channel-marketing-content.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder la vidéo</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regardez la vidéo</span>
       </a>
     </div>
   </div>
@@ -252,7 +252,7 @@ Les solutions d’Adobe utilisées pour l’agilité marketing :
           <p class="is-size-6"><em>Découvrez comment créer des PDF professionnels avec les outils de conception intégrés et faciles à utiliser dans Adobe Express. Ce tutoriel vidéo utilise la nouvelle expérience de l’espace de travail.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-PDF.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder la vidéo</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regardez la vidéo</span>
       </a>
     </div>
   </div>
@@ -268,12 +268,12 @@ Les solutions d’Adobe utilisées pour l’agilité marketing :
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/content-automation/overview.html" title="Présentation de l’automatisation de contenu avec les services de Creative Cloud">Présentation de l’automatisation du contenu avec les services de Creative Cloud</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/content-automation/overview.html" title="Présentation de l’automatisation de contenu avec les services de Creative Cloud">Présentation de l’automatisation de contenu avec les services de Creative Cloud</a>
           </p>
           <p class="is-size-6"><em>Une présentation de l’application des fonctionnalités de Photoshop et de Lightroom avec l’automatisation de contenu d’Adobe Experience Manager Assets.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/content-automation/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder la vidéo</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regardez la vidéo</span>
       </a>
     </div>
   </div>
@@ -294,7 +294,7 @@ Les solutions d’Adobe utilisées pour l’agilité marketing :
           <p class="is-size-6"><em>Découvrez comment optimiser les chaînes d’approvisionnement de contenu grâce à AEM Assets et Adobe Express et améliorez la productivité et l’accessibilité pour toutes les personnes membres de l’équipe.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder la vidéo</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regardez la vidéo</span>
       </a>
     </div>
   </div>
